@@ -191,7 +191,7 @@ body {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #0e253d;
+  background-color: #666666;
 }
 
 .container:hover .overlay {
